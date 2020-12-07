@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	autocrlf = input
+	safecrlf = warn
+	editor = code --wait
+[user]
+	name = William
+	email = william.ribeiro@ab-inbev.com
+
